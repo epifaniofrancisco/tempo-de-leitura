@@ -10,6 +10,8 @@
 <p align="justify">Um simples contador de palavras e frases para analisar quanto tempo demorarias para ler um determinado texto.</p>
 
 ### Demo
+<a href="https://epifaniofrancisco.github.io/tempo-de-leitura/">Demo</a>
+
 ![demo](https://user-images.githubusercontent.com/81193129/145640450-37765ef7-8402-4e23-a148-49627b0174c7.png)
 
 ## Configuração
